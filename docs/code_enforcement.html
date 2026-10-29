@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Columbus Code Enforcement Leads</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&display=swap">
+<style>
+:root{
+  --paper:#eef1f4; --panel:#ffffff; --ink:#14212e; --ink-2:#4a5b6b; --line:#d5dce3; --line-2:#e6ebf0;
+  --accent:#1d5fa8; --accent-ink:#ffffff; --chip:#e3e9ef; --chip-ink:#2b3b4a;
+  --fc:#8a1c1c; --fc-bg:#f8e3e1; --new:#0f6b4a; --new-bg:#dcf1e8; --focus:#1d5fa8;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#0f1720; --panel:#16212d; --ink:#e7edf3; --ink-2:#9db0c2; --line:#2a3846; --line-2:#212e3b;
+    --accent:#6fb0f0; --accent-ink:#0b1219; --chip:#22303e; --chip-ink:#c9d6e2;
+    --fc:#ffb4ad; --fc-bg:#4a1f1d; --new:#7fd9b3; --new-bg:#143a2c; --focus:#6fb0f0;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0f1720; --panel:#16212d; --ink:#e7edf3; --ink-2:#9db0c2; --line:#2a3846; --line-2:#212e3b;
+  --accent:#6fb0f0; --accent-ink:#0b1219; --chip:#22303e; --chip-ink:#c9d6e2;
+  --fc:#ffb4ad; --fc-bg:#4a1f1d; --new:#7fd9b3; --new-bg:#143a2c; --focus:#6fb0f0;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.45 "Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;font-variant-numeric:tabular-nums}
+.wrap{max-width:1320px;margin:0 auto;padding:24px 16px 56px}
+h1{font-size:1.5rem;line-height:1.2;margin:0 0 4px;font-weight:700;letter-spacing:-.01em}
+.sub{color:var(--ink-2);margin:0 0 20px;font-size:.9rem}
+.stats{display:flex;flex-wrap:wrap;gap:6px 28px;margin:0 0 18px;padding:0;list-style:none}
+.stats li{display:flex;align-items:baseline;gap:7px}
+.stats b{font-size:1.35rem;font-weight:700}
+.stats span{color:var(--ink-2);font-size:.88rem}
+.filters{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:end;background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:12px 14px;margin-bottom:12px}
+.field{display:flex;flex-direction:column;gap:3px;font-size:.8rem;color:var(--ink-2)}
+.field input[type=search],.field select{font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:4px;padding:7px 9px;min-width:150px}
+.field input[type=search]{min-width:220px}
+.checks{display:flex;flex-wrap:wrap;gap:6px 16px;align-items:center}
+.checks label{display:flex;gap:6px;align-items:center;font-size:.88rem;color:var(--ink);cursor:pointer}
+.spacer{flex:1}
+button{font:inherit;cursor:pointer}
+.btn{background:var(--accent);color:var(--accent-ink);border:0;border-radius:4px;padding:8px 13px;font-weight:600}
+.btn.ghost{background:transparent;color:var(--accent);border:1px solid var(--line)}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.tablebox{background:var(--panel);border:1px solid var(--line);border-radius:6px;overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:980px}
+thead th{position:sticky;top:0;background:var(--panel);text-align:left;font-size:.78rem;font-weight:600;color:var(--ink-2);border-bottom:1px solid var(--line);padding:0;white-space:nowrap}
+thead th button{all:unset;display:block;box-sizing:border-box;width:100%;padding:10px 12px;cursor:pointer}
+thead th button:hover{color:var(--ink)}
+thead th button:focus-visible{outline:2px solid var(--focus);outline-offset:-2px}
+th[aria-sort="ascending"] button::after{content:" \25B2";font-size:.65rem}
+th[aria-sort="descending"] button::after{content:" \25BC";font-size:.65rem}
+tbody td{padding:9px 12px;border-bottom:1px solid var(--line-2);vertical-align:top}
+tr.lead{cursor:pointer}
+tr.lead:hover td{background:color-mix(in srgb,var(--accent) 6%,var(--panel))}
+tr.lead.open td{background:color-mix(in srgb,var(--accent) 9%,var(--panel));border-bottom-color:transparent}
+.score{display:flex;align-items:center;gap:8px;min-width:96px}
+.score .bar{flex:1;height:8px;border-radius:2px;background:var(--line-2);overflow:hidden}
+.score .bar i{display:block;height:100%}
+.score b{font-weight:700;width:2ch;text-align:right}
+.addr{font-weight:600}
+.muted{color:var(--ink-2)}
+.small{font-size:.84rem}
+td.nw{white-space:nowrap}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{background:var(--chip);color:var(--chip-ink);border-radius:3px;padding:1px 7px;font-size:.76rem;white-space:nowrap}
+.chip.fc{background:var(--fc-bg);color:var(--fc);font-weight:600}
+.chip.new{background:var(--new-bg);color:var(--new);font-weight:600}
+tr.detail td{background:color-mix(in srgb,var(--accent) 9%,var(--panel));padding:4px 12px 16px}
+.dgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px 24px}
+.dgrid h3{margin:0 0 3px;font-size:.78rem;font-weight:600;color:var(--ink-2)}
+.dgrid p{margin:0;white-space:pre-wrap;overflow-wrap:anywhere}
+.dgrid .wide{grid-column:1/-1}
+a{color:var(--accent)}
+.pager{display:flex;gap:10px;align-items:center;justify-content:flex-end;padding:12px 4px;color:var(--ink-2);font-size:.88rem}
+.empty{padding:44px 16px;text-align:center}
+.empty p{margin:0 0 12px}
+.bar-top{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;flex-wrap:wrap}
+@media (max-width:640px){.field input[type=search]{min-width:0;width:100%}.field{flex:1 1 140px}}
+@media (prefers-reduced-motion:no-preference){tr.lead td{transition:background-color .12s}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="bar-top">
+    <div>
+      <h1>Columbus code enforcement leads</h1>
+      <p class="sub" id="updated">Loading leads…</p>
+    </div>
+    <button class="btn ghost" id="theme" type="button" aria-label="Switch between light and dark">Light / dark</button>
+  </div>
+
+  <ul class="stats" id="stats" aria-label="Summary"></ul>
+
+  <form class="filters" id="filters" onsubmit="return false">
+    <label class="field">Search address, owner or type
+      <input type="search" id="q" placeholder="e.g. Maize Rd or Smith" autocomplete="off">
+    </label>
+    <label class="field">Minimum score
+      <select id="min">
+        <option value="0">All scores</option><option value="25">25 and up</option>
+        <option value="40">40 and up</option><option value="60">60 and up</option><option value="80">80 and up</option>
+      </select>
+    </label>
+    <label class="field">Category
+      <select id="cat"><option value="">All categories</option></select>
+    </label>
+    <div class="checks" role="group" aria-label="Quick filters">
+      <label><input type="checkbox" id="f-fc"> Foreclosure filing</label>
+      <label><input type="checkbox" id="f-abs"> Absentee owner</label>
+      <label><input type="checkbox" id="f-own"> Has owner name</label>
+      <label><input type="checkbox" id="f-new"> Added in last 7 days</label>
+    </div>
+    <span class="spacer"></span>
+    <button class="btn ghost" id="clear" type="button">Clear filters</button>
+    <button class="btn" id="export" type="button">Download these as CSV</button>
+  </form>
+
+  <div class="tablebox">
+    <table>
+      <thead><tr id="head"></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div class="empty" id="empty" hidden>
+      <p>No leads match these filters. Lower the minimum score or clear a filter.</p>
+      <button class="btn" id="clear2" type="button">Clear filters</button>
+    </div>
+  </div>
+  <div class="pager" id="pager"></div>
+</div>
+
+<script src="code_enforcement_data.js" onerror="window.__noJs=true"></script>
+<script>
+(function(){
+"use strict";
+var PAGE=100;
+var COLS=[
+  {k:"lead_score",t:"Score",num:true},{k:"date_added",t:"Added"},{k:"filing_date",t:"Filed"},
+  {k:"property_address",t:"Property"},{k:"owner_name",t:"Owner"},{k:"mailing",t:"Mailing address"},
+  {k:"type",t:"Violation"},{k:"flags",t:"Flags",nosort:true}
+];
+var all=[], view=[], st={q:"",min:0,cat:"",fc:false,abs:false,own:false,fresh:false,key:"lead_score",dir:-1,page:0,open:null};
+var $=function(id){return document.getElementById(id)};
+
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
+function parts(t){return String(t||"").split("/").map(function(s){return s.trim()}).filter(function(s){return s&&s!=="NA"&&s!=="Enforcement"})}
+function typeShort(t){var p=parts(t);return p.slice(-2).join(" / ")||String(t||"")}
+function category(t){var p=parts(t);return p[0]||"Other"}
+function heat(s){ // steel -> amber -> signal red
+  var a=[[0,[122,146,168]],[50,[222,160,40]],[100,[205,48,38]]];
+  s=Math.max(0,Math.min(100,s));
+  for(var i=1;i<a.length;i++){ if(s<=a[i][0]){var lo=a[i-1],hi=a[i],f=(s-lo[0])/(hi[0]-lo[0]);
+    return "rgb("+lo[1].map(function(v,j){return Math.round(v+(hi[1][j]-v)*f)}).join(",")+")"}}
+}
+function fmtDate(iso,full){ if(!iso)return ""; var d=new Date(iso+"T00:00:00"); if(isNaN(d))return iso;
+  var o={month:"short",day:"numeric"}; if(full||d.getFullYear()!==new Date().getFullYear())o.year="numeric";
+  return d.toLocaleDateString("en-US",o)}
+function money(v){var n=parseFloat(String(v).replace(/[^0-9.]/g,""));return n>0?"$"+n.toLocaleString("en-US"):""}
+function daysAgo(iso){ if(!iso)return 9999; return Math.floor((Date.now()-new Date(iso+"T00:00:00"))/864e5)}
+function truthy(v){return v===true||v==="True"||v==="true"||v===1||v==="1"}
+function cityLine(r){return [r.property_city,[r.property_state,r.property_zip].filter(Boolean).join(" ")].filter(Boolean).join(", ")}
+function mailing(r){var c=[r.mailing_city,[r.mailing_state,r.mailing_zip].filter(Boolean).join(" ")].filter(Boolean).join(", ");return [r.mailing_address,c].filter(Boolean).join(", ")}
+function prep(r,i){
+  r.id=r.case_number||("r"+i); r.score=parseInt(r.lead_score,10)||0;
+  r.mailing=mailing(r); r.type=typeShort(r.record_type); r.cat=category(r.record_type);
+  r.fcm=truthy(r.foreclosure_match); r.absn=truthy(r.absentee_owner); r.fresh=daysAgo(r.date_added)<=7;
+  r.hay=[r.property_address,r.property_city,r.property_zip,r.owner_name,r.mailing,r.record_type,r.case_number,r.description].join(" ").toLowerCase();
+  return r;
+}
+
+function load(){
+  if(window.CE_DATA){return Promise.resolve(window.CE_DATA)}
+  return fetch("code_enforcement.json",{cache:"no-store"}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json()});
+}
+
+function build(){
+  var cats={}; all.forEach(function(r){cats[r.cat]=(cats[r.cat]||0)+1});
+  var sel=$("cat"); Object.keys(cats).sort().forEach(function(c){var o=document.createElement("option");o.value=c;o.textContent=c+" ("+cats[c]+")";sel.appendChild(o)});
+  $("head").innerHTML=COLS.map(function(c){
+    return c.nosort?'<th scope="col"><button type="button" disabled style="cursor:default">'+c.t+'</button></th>'
+      :'<th scope="col" data-k="'+c.k+'"><button type="button">'+c.t+'</button></th>'}).join("");
+  $("head").addEventListener("click",function(e){
+    var th=e.target.closest("th[data-k]"); if(!th)return; var k=th.dataset.k;
+    if(st.key===k){st.dir*=-1}else{st.key=k;st.dir=(k==="lead_score"||k==="date_added"||k==="filing_date")?-1:1}
+    st.page=0; render();
+  });
+}
+
+function apply(){
+  var q=st.q.trim().toLowerCase();
+  view=all.filter(function(r){
+    if(r.score<st.min)return false; if(st.cat&&r.cat!==st.cat)return false;
+    if(st.fc&&!r.fcm)return false; if(st.abs&&!r.absn)return false;
+    if(st.own&&!r.owner_name)return false; if(st.fresh&&!r.fresh)return false;
+    return !q||r.hay.indexOf(q)>-1;
+  });
+  var k=st.key,d=st.dir;
+  view.sort(function(a,b){
+    var x=k==="lead_score"?a.score:(a[k]||""), y=k==="lead_score"?b.score:(b[k]||"");
+    if(x===y){return b.score-a.score}
+    return (x>y?1:-1)*d;
+  });
+}
+
+function row(r){
+  var chips="";
+  if(r.fcm)chips+='<span class="chip fc">Foreclosure filing</span>';
+  if(r.absn)chips+='<span class="chip">Absentee</span>';
+  if(r.fresh)chips+='<span class="chip new">New</span>';
+  if(r.repeat_violations>1)chips+='<span class="chip">'+esc(r.repeat_violations)+' cases here</span>';
+  var o=st.open===r.id;
+  var h='<tr class="lead'+(o?" open":"")+'" data-id="'+esc(r.id)+'"><td><div class="score"><span class="bar"><i style="width:'+r.score+'%;background:'+heat(r.score)+'"></i></span><b>'+r.score+'</b></div></td>'
+   +'<td class="small nw">'+esc(fmtDate(r.date_added))+'</td><td class="small nw">'+esc(fmtDate(r.filing_date))+'</td>'
+   +'<td><button type="button" class="addr" style="all:unset;cursor:pointer;font-weight:600" aria-expanded="'+o+'">'+esc(r.property_address||"No address")+'</button><div class="small muted">'+esc(cityLine(r))+'</div></td>'
+   +'<td>'+(r.owner_name?esc(r.owner_name):'<span class="muted">Not found</span>')+'</td>'
+   +'<td class="small">'+(r.mailing?esc(r.mailing):'<span class="muted">Not found</span>')+'</td>'
+   +'<td class="small">'+esc(r.type)+'</td><td><div class="chips">'+chips+'</div></td></tr>';
+  if(o){
+    var tags=String(r.lead_tags||"").split(",").map(function(s){return s.trim()}).filter(Boolean).map(function(t){return '<span class="chip">'+esc(t)+'</span>'}).join("");
+    var maps="https://www.google.com/maps/search/?api=1&query="+encodeURIComponent((r.property_address||"")+", Columbus OH");
+    h+='<tr class="detail"><td colspan="8"><div class="dgrid">'
+     +'<div class="wide"><h3>What was reported</h3><p>'+esc(r.description||"No description")+'</p></div>'
+     +'<div><h3>Case</h3><p>'+esc(r.case_number)+'<br>'+esc(r.record_type)+'<br>Status: '+esc(r.record_status||"")+'</p></div>'
+     +'<div><h3>Property</h3><p>'+esc([r.land_use&&"Land use "+r.land_use,r.prop_class&&"Class "+r.prop_class,r.year_built&&"Built "+r.year_built,truthy(r.homestead)||r.homestead==="Y"?"Homestead":""].filter(Boolean).join("\n")||"No parcel details")+'</p></div>'
+     +'<div><h3>Last sale</h3><p>'+esc([fmtDate(r.last_sale_date,true),money(r.last_sale_price)].filter(Boolean).join("\n")||"Not on file")+'</p></div>'
+     +(r.fcm?'<div><h3>Foreclosure case</h3><p>'+esc(r.foreclosure_case_number||"Matched")+'</p></div>':"")
+     +'<div class="wide"><h3>Why it scored '+r.score+'</h3><div class="chips">'+(tags||'<span class="muted">No tags</span>')+'</div></div>'
+     +'<div class="wide"><a href="'+esc(r.source_url)+'" target="_blank" rel="noopener">Open case on the city portal</a> &nbsp; <a href="'+maps+'" target="_blank" rel="noopener">View on map</a></div>'
+     +'</div></td></tr>';
+  }
+  return h;
+}
+
+function stats(){
+  var n=all.length, hi=all.filter(function(r){return r.score>=60}).length,
+      fc=all.filter(function(r){return r.fcm}).length, ab=all.filter(function(r){return r.absn}).length,
+      fr=all.filter(function(r){return r.fresh}).length, ow=all.filter(function(r){return r.owner_name}).length;
+  function li(b,s){return '<li><b>'+b.toLocaleString()+'</b><span>'+s+'</span></li>'}
+  $("stats").innerHTML=li(n,"open leads")+li(hi,"score 60 or higher")+li(fc,"with a foreclosure filing")+li(ab,"absentee owners")+li(fr,"added this week")+li(ow,"with an owner name");
+}
+
+function render(){
+  apply();
+  var pages=Math.max(1,Math.ceil(view.length/PAGE)); if(st.page>=pages)st.page=pages-1;
+  var slice=view.slice(st.page*PAGE,st.page*PAGE+PAGE);
+  $("rows").innerHTML=slice.map(row).join("");
+  $("empty").hidden=view.length>0;
+  document.querySelectorAll("#head th[data-k]").forEach(function(th){
+    th.setAttribute("aria-sort",th.dataset.k===st.key?(st.dir>0?"ascending":"descending"):"none")});
+  var from=view.length?st.page*PAGE+1:0, to=Math.min(view.length,(st.page+1)*PAGE);
+  $("pager").innerHTML='<span>Showing '+from+' to '+to+' of '+view.length.toLocaleString()+' leads</span>'
+    +'<button class="btn ghost" id="prev" type="button"'+(st.page?"":" disabled")+'>Previous</button>'
+    +'<button class="btn ghost" id="next" type="button"'+(st.page<pages-1?"":" disabled")+'>Next</button>';
+  $("prev").onclick=function(){st.page--;render();window.scrollTo(0,0)}; $("next").onclick=function(){st.page++;render();window.scrollTo(0,0)};
+}
+
+function csv(){
+  var cols=["lead_score","date_added","filing_date","property_address","property_city","property_state","property_zip","owner_name","mailing_address","mailing_city","mailing_state","mailing_zip","record_type","record_status","case_number","foreclosure_match","absentee_owner","lead_tags","land_use","last_sale_date","last_sale_price","source_url"];
+  var out=[cols.join(",")].concat(view.map(function(r){return cols.map(function(c){return '"'+String(r[c]==null?"":r[c]).replace(/"/g,'""')+'"'}).join(",")}));
+  var a=document.createElement("a"); a.href=URL.createObjectURL(new Blob(["﻿"+out.join("\r\n")],{type:"text/csv"}));
+  a.download="code_enforcement_filtered.csv"; document.body.appendChild(a); a.click(); a.remove();
+}
+
+function reset(){st.q="";st.min=0;st.cat="";st.fc=st.abs=st.own=st.fresh=false;st.page=0;
+  $("q").value="";$("min").value="0";$("cat").value="";["f-fc","f-abs","f-own","f-new"].forEach(function(i){$(i).checked=false});render()}
+
+function wire(){
+  $("q").addEventListener("input",function(){st.q=this.value;st.page=0;render()});
+  $("min").addEventListener("change",function(){st.min=+this.value;st.page=0;render()});
+  $("cat").addEventListener("change",function(){st.cat=this.value;st.page=0;render()});
+  [["f-fc","fc"],["f-abs","abs"],["f-own","own"],["f-new","fresh"]].forEach(function(p){
+    $(p[0]).addEventListener("change",function(){st[p[1]]=this.checked;st.page=0;render()})});
+  $("rows").addEventListener("click",function(e){
+    if(e.target.closest("a"))return; var tr=e.target.closest("tr.lead"); if(!tr)return;
+    st.open=(st.open===tr.dataset.id)?null:tr.dataset.id; render();
+    var again=document.querySelector('tr.lead[data-id="'+CSS.escape(tr.dataset.id)+'"] .addr'); if(again)again.focus();
+  });
+  $("clear").onclick=reset; $("clear2").onclick=reset; $("export").onclick=csv;
+  $("theme").onclick=function(){var r=document.documentElement,d=r.dataset.theme;
+    var dark=d?d==="dark":matchMedia("(prefers-color-scheme: dark)").matches; r.dataset.theme=dark?"light":"dark"};
+}
+
+load().then(function(d){
+  all=(d.leads||[]).map(prep);
+  var u=d.updated?new Date(d.updated):null;
+  $("updated").textContent=u&&!isNaN(u)?"Updated "+u.toLocaleString("en-US",{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"})+". Open cases only, apartments and noise complaints removed.":"Open cases only.";
+  build(); stats(); wire(); render();
+}).catch(function(){
+  $("updated").textContent="The lead data could not be loaded. Run the pipeline to create docs/code_enforcement_data.js, then reload this page.";
+});
+})();
+</script>
+</body>
+</html>

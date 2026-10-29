@@ -1,0 +1,62 @@
+name: Columbus Code Enforcement (nightly)
+
+on:
+  schedule:
+    - cron: "30 8 * * *"   # 08:30 UTC daily, separate from the foreclosure workflows
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "Look back N days (blank = incremental)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: code-enforcement
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: playwright install --with-deps chromium
+      - run: python tests/test_offline.py
+      - name: Check owner file
+        run: |
+          if [ ! -f data/parcel_lookup.csv.gz ]; then
+            echo "::warning::data/parcel_lookup.csv.gz is missing - new leads will have no owner names. See GITHUB_SETUP.md"
+          fi
+      - name: Run pipeline
+        env:
+          INPUT_DAYS: ${{ github.event.inputs.days }}
+        run: |
+          # Manual run with a number -> that many days back. Sundays -> full 60-day re-check
+          # (so leads that closed since drop off). Every other night -> incremental.
+          if [ -n "$INPUT_DAYS" ]; then
+            DAYS="$INPUT_DAYS"
+          elif [ "$(date -u +%u)" = "7" ]; then
+            DAYS=60
+          fi
+          if [ -n "$DAYS" ]; then
+            python run_pipeline.py --days "$DAYS" --min-score 60
+          else
+            python run_pipeline.py --min-score 60
+          fi
+      - name: Commit data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          for f in data/records.json data/pending_records.json data/state.json data/ghl_code_enforcement.csv docs/code_enforcement.json docs/code_enforcement_data.js; do
+            [ -f "$f" ] && git add "$f"
+          done
+          git diff --cached --quiet || git commit -m "Code enforcement data update"
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push
