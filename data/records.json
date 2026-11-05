@@ -15982,9 +15982,9 @@
     "description": "1145 PETERS AVE - The resident is reporting their fence is not up to code.",
     "parcel_number": "010009765",
     "absentee_owner": false,
-    "repeat_violations": 1,
-    "lead_score": 15,
-    "lead_tags": "open",
+    "repeat_violations": 2,
+    "lead_score": 25,
+    "lead_tags": "open, repeat-2",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -63596,9 +63596,9 @@
     "description": "950 BERKELEY RD - 950 BERKELEY RD\nCaller reported a junk car in the driveway \ntrash and debris in the yard \nhouse looks in disrepair",
     "parcel_number": "010080578",
     "absentee_owner": false,
-    "repeat_violations": 1,
-    "lead_score": 37,
-    "lead_tags": "trash-debris, junk-vehicles, inoperable-vehicle, open",
+    "repeat_violations": 2,
+    "lead_score": 47,
+    "lead_tags": "trash-debris, junk-vehicles, inoperable-vehicle, open, repeat-2",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "Y",
@@ -78112,9 +78112,9 @@
     "description": "724 THURMAN AVE - 724 THURMAN AVE\nKitchen sink leaking into fuse boxes. Wires hanging from fuse and are sparking. No lights upstairs having to run extension cords in hallways and bedrooms. Windows were replaced and wood is showing. Childrens hospital sent letter about the lead. \nRequesting an interior inspection.",
     "parcel_number": "010094918",
     "absentee_owner": true,
-    "repeat_violations": 5,
+    "repeat_violations": 6,
     "lead_score": 70,
-    "lead_tags": "housing-code, open, repeat-5, absentee",
+    "lead_tags": "housing-code, open, repeat-6, absentee",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -88182,9 +88182,9 @@
     "description": "76 E LAKEVIEW AVE - Wood construction debris in alley and lawn furniture askew clutter",
     "parcel_number": "010009685",
     "absentee_owner": false,
-    "repeat_violations": 1,
-    "lead_score": 23,
-    "lead_tags": "trash-debris, open",
+    "repeat_violations": 2,
+    "lead_score": 33,
+    "lead_tags": "trash-debris, open, repeat-2",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -98556,9 +98556,9 @@
     "description": "724 THURMAN AVE - trash and debris on private property at 724 THURMAN AVE",
     "parcel_number": "010094918",
     "absentee_owner": true,
-    "repeat_violations": 5,
+    "repeat_violations": 6,
     "lead_score": 74,
-    "lead_tags": "trash-debris, overgrown, open, repeat-5, absentee",
+    "lead_tags": "trash-debris, overgrown, open, repeat-6, absentee",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -100190,9 +100190,9 @@
     "description": "While inspecting, observed emergency code violations. (x2)",
     "parcel_number": "010094918",
     "absentee_owner": true,
-    "repeat_violations": 5,
+    "repeat_violations": 6,
     "lead_score": 60,
-    "lead_tags": "open, repeat-5, absentee",
+    "lead_tags": "open, repeat-6, absentee",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -101824,9 +101824,9 @@
     "description": "While inspecting, observed unsanitary conditions from the TENANTS.",
     "parcel_number": "010094918",
     "absentee_owner": true,
-    "repeat_violations": 5,
+    "repeat_violations": 6,
     "lead_score": 70,
-    "lead_tags": "housing-code, open, repeat-5, absentee",
+    "lead_tags": "housing-code, open, repeat-6, absentee",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -102014,9 +102014,9 @@
     "description": "While inspecting, observed emergency code violations. Missing window.",
     "parcel_number": "010094918",
     "absentee_owner": true,
-    "repeat_violations": 5,
+    "repeat_violations": 6,
     "lead_score": 60,
-    "lead_tags": "open, repeat-5, absentee",
+    "lead_tags": "open, repeat-6, absentee",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -115238,9 +115238,9 @@
     "description": "Complainant states severe mouse infestation + standing water",
     "parcel_number": "010099663",
     "absentee_owner": true,
-    "repeat_violations": 1,
-    "lead_score": 40,
-    "lead_tags": "infestation, open, absentee",
+    "repeat_violations": 3,
+    "lead_score": 60,
+    "lead_tags": "infestation, open, repeat-3, absentee",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -115555,7 +115555,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09858&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-01",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18471": {
     "owner_name": "",
@@ -115631,7 +115631,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18472&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-01",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09859": {
     "owner_name": "KEYBANK NATIONAL ASSOCIATION",
@@ -115669,7 +115669,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09859&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-01",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18474": {
     "owner_name": "EQUITY TRUST CO CUST FBO WALKER KEITH P IRA",
@@ -115707,7 +115707,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18474&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-01",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09362": {
     "owner_name": "MYERS JAMIE D",
@@ -115745,7 +115745,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09362&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-01",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18470": {
     "owner_name": "",
@@ -116467,7 +116467,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18493&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18487": {
     "owner_name": "PUMZIKA LLC",
@@ -116505,7 +116505,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18487&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09868": {
     "owner_name": "JENKINS STREET LOFTS LIMITED PARTNERSHIP",
@@ -116543,7 +116543,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09868&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09875": {
     "owner_name": "CORE DEVELOPMENTS 2 LLC",
@@ -116695,7 +116695,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09870&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "PACE1-2600250": {
     "owner_name": "PUMZIKA LLC",
@@ -116733,7 +116733,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26CAP&capID2=00000&capID3=01DZK&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09368": {
     "owner_name": "",
@@ -116771,7 +116771,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09368&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18503": {
     "owner_name": "HENDERSON MARK",
@@ -116809,7 +116809,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18503&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18502": {
     "owner_name": "",
@@ -116847,7 +116847,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18502&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09873": {
     "owner_name": "CONFLUENCE COMMUNITY AUTHORITY",
@@ -116923,7 +116923,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18497&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01267": {
     "owner_name": "",
@@ -116961,7 +116961,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01267&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09880": {
     "owner_name": "SARILYNN2103 LLC",
@@ -116999,7 +116999,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09880&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09376": {
     "owner_name": "SCOTT CARLOS",
@@ -117024,9 +117024,9 @@
     "description": "1789 GOETHE AVE - Resident reports this unoccupied home has homeless people coming in and out dumping trash all over the property. Please assist",
     "parcel_number": "010017196",
     "absentee_owner": true,
-    "repeat_violations": 1,
-    "lead_score": 48,
-    "lead_tags": "housing-code, trash-debris, open, absentee",
+    "repeat_violations": 2,
+    "lead_score": 58,
+    "lead_tags": "housing-code, trash-debris, open, repeat-2, absentee",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -117075,7 +117075,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18494&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09877": {
     "owner_name": "BURLEY KELVIN",
@@ -117151,7 +117151,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18496&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01268": {
     "owner_name": "TIMMONS JANET",
@@ -117265,7 +117265,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09371&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18484": {
     "owner_name": "FKH SFR M LP",
@@ -117303,7 +117303,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18484&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18498": {
     "owner_name": "",
@@ -117341,7 +117341,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18498&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09874": {
     "owner_name": "BORTZ CHARLES L TR",
@@ -117379,7 +117379,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09874&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18486": {
     "owner_name": "HOPKINS PROPERTIES LLC",
@@ -117417,7 +117417,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18486&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18490": {
     "owner_name": "BARNHILL NATHAN",
@@ -117455,7 +117455,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18490&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18491": {
     "owner_name": "FENTON SCOTT A",
@@ -117493,7 +117493,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18491&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18482": {
     "owner_name": "CHOE AEN",
@@ -117645,7 +117645,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09869&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01269": {
     "owner_name": "MILLER MARK J TR",
@@ -117721,7 +117721,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09380&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18492": {
     "owner_name": "FENTON SCOTT A",
@@ -117797,7 +117797,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18499&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09878": {
     "owner_name": "MMM HOSPITALITY LTD",
@@ -117873,7 +117873,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09378&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09369": {
     "owner_name": "KSI REALTY HOLDINGS LLC",
@@ -117911,7 +117911,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09369&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18489": {
     "owner_name": "",
@@ -117949,7 +117949,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18489&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09881": {
     "owner_name": "HARRIS LEALA",
@@ -117987,7 +117987,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09881&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09375": {
     "owner_name": "ESPY ELIZABETH N TR",
@@ -118025,7 +118025,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09375&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09379": {
     "owner_name": "ZACHARY ZANE R",
@@ -118063,7 +118063,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09379&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09370": {
     "owner_name": "",
@@ -118126,9 +118126,9 @@
     "description": "7525 SANCUS BLVD - rat infestation despite reporting to the complex, nothing has been done. rats are starting to come up near the apartments and on my patio",
     "parcel_number": "610252425",
     "absentee_owner": true,
-    "repeat_violations": 1,
-    "lead_score": 46,
-    "lead_tags": "overgrown, infestation, open, absentee",
+    "repeat_violations": 2,
+    "lead_score": 56,
+    "lead_tags": "overgrown, infestation, open, repeat-2, absentee",
     "land_use": "458",
     "prop_class": "C",
     "homestead": "",
@@ -118139,7 +118139,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18501&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09872": {
     "owner_name": "HATHAWAY CHRISTOPHER",
@@ -118177,7 +118177,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09872&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09367": {
     "owner_name": "",
@@ -118215,7 +118215,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09367&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18488": {
     "owner_name": "ELECTION ROAD LLC",
@@ -118253,7 +118253,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18488&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01270": {
     "owner_name": "DENG XIAOYAN",
@@ -118291,7 +118291,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01270&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18479": {
     "owner_name": "LOHR CHRISTOPHER R",
@@ -118329,7 +118329,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18479&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18480": {
     "owner_name": "GUNN TOMMY L JR",
@@ -118405,7 +118405,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18478&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09865": {
     "owner_name": "SMITH STANLEY A",
@@ -118481,7 +118481,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09862&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09363": {
     "owner_name": "WILLS STEVEN G TR",
@@ -118519,7 +118519,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09363&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01940": {
     "owner_name": "KMBR RENTAL LLC",
@@ -118557,7 +118557,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01940&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09364": {
     "owner_name": "",
@@ -118595,7 +118595,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09364&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18481": {
     "owner_name": "900 SHORT NORTH LLC",
@@ -118633,7 +118633,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18481&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18475": {
     "owner_name": "STEWART MARK",
@@ -118709,7 +118709,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09863&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01939": {
     "owner_name": "BRIDGES BEN",
@@ -118747,7 +118747,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01939&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18476": {
     "owner_name": "CHEN XIAOSHENG",
@@ -118785,7 +118785,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18476&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18477": {
     "owner_name": "CLARK BRANDON",
@@ -118823,7 +118823,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18477&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09861": {
     "owner_name": "PLEASANT VERA L",
@@ -118861,7 +118861,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09861&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-02",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09864": {
     "owner_name": "MUHDAR ASAD",
@@ -118937,7 +118937,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09402&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09904": {
     "owner_name": "FALLAH WOARLEH",
@@ -119051,7 +119051,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01274&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26451-01952": {
     "owner_name": "MCDOUGALD WALLACE III",
@@ -119089,7 +119089,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01952&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01950": {
     "owner_name": "BAKER JOAN LE",
@@ -119127,7 +119127,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01950&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09915": {
     "owner_name": "TAMANG SA BIR",
@@ -119165,7 +119165,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09915&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09405": {
     "owner_name": "BARR JESSE M",
@@ -119203,7 +119203,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09405&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09403": {
     "owner_name": "SKYWAY PROPERTIES LLC",
@@ -119241,7 +119241,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09403&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09409": {
     "owner_name": "MAYERS PROPERTIES 2150 SUMMIT LLC",
@@ -119279,7 +119279,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09409&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09919": {
     "owner_name": "PARSLEY JOAN E",
@@ -119393,7 +119393,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09920&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09917": {
     "owner_name": "BARIE JONATHAN ADAM",
@@ -119469,7 +119469,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09913&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09911": {
     "owner_name": "HADDEN STEPHEN LAWRENCE",
@@ -119545,7 +119545,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18517&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09921": {
     "owner_name": "OLVERA CIRILO",
@@ -119621,7 +119621,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09912&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09404": {
     "owner_name": "GABORCIK ZACHARYA A",
@@ -119659,7 +119659,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09404&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09407": {
     "owner_name": "TOK LLC",
@@ -119697,7 +119697,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09407&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18519": {
     "owner_name": "PARVIN SEPEHR",
@@ -119773,7 +119773,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18520&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01273": {
     "owner_name": "SRML REALTY LLC",
@@ -119811,7 +119811,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01273&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01951": {
     "owner_name": "BELOIN ALLEN MATTHEW",
@@ -119849,7 +119849,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01951&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09906": {
     "owner_name": "FLORES NICOLE M",
@@ -120001,7 +120001,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09916&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09905": {
     "owner_name": "FINNEY MINNIE F",
@@ -120115,7 +120115,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18516&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09406": {
     "owner_name": "WELOH LLP",
@@ -120153,7 +120153,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09406&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01949": {
     "owner_name": "ETC CUST FBO KEITH P WALKER IRA",
@@ -120229,7 +120229,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09907&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09910": {
     "owner_name": "SINGHAL PARTNERS LLC",
@@ -120267,7 +120267,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09910&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09882": {
     "owner_name": "PELEGRIN VICKIANA",
@@ -120305,7 +120305,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09882&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09388": {
     "owner_name": "DOUGLAS REIGN LLC",
@@ -120343,7 +120343,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09388&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09888": {
     "owner_name": "J MORQUECHO CONSTRUCTION LLC",
@@ -120381,7 +120381,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09888&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09390": {
     "owner_name": "MOWTIVATION LAWN SERVICES LLC",
@@ -120457,7 +120457,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18514&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09387": {
     "owner_name": "LOCHTEFELD LEE",
@@ -120495,7 +120495,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09387&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18504": {
     "owner_name": "VERZI ANTHONY",
@@ -120533,7 +120533,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18504&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01272": {
     "owner_name": "PEREZ NUVIA GRICELDA CARRILLO",
@@ -120571,7 +120571,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01272&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18509": {
     "owner_name": "BOWMAN REBECCA L",
@@ -120609,7 +120609,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18509&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09892": {
     "owner_name": "PERDUE-HAMILTON CARRIE B",
@@ -120647,7 +120647,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09892&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18512": {
     "owner_name": "PATTERSON COLETTE",
@@ -120685,7 +120685,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18512&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09384": {
     "owner_name": "WILLIAMS EDWIN R",
@@ -120761,7 +120761,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18513&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09898": {
     "owner_name": "RII 1SC COLUMBUS I LLC",
@@ -120875,7 +120875,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09895&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18510": {
     "owner_name": "PERRIN KATELYN",
@@ -120913,7 +120913,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18510&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01941": {
     "owner_name": "LEONG DEREK",
@@ -120951,7 +120951,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01941&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26451-01942": {
     "owner_name": "LEONG DEREK",
@@ -120989,7 +120989,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01942&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09894": {
     "owner_name": "1993 SUMMIT LLC",
@@ -121027,7 +121027,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09894&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26VAC-01943": {
     "owner_name": "FGW INVESTMENT PROPERTIES LLC",
@@ -121065,7 +121065,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01943&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26VAC-01944": {
     "owner_name": "14 OAK ROAD COLUMBUS LLC",
@@ -121103,7 +121103,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01944&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09391": {
     "owner_name": "LG VENTURE OHIO LLC",
@@ -121141,7 +121141,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09391&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01947": {
     "owner_name": "ETC CUST FBO KEITH P WALKER IRA",
@@ -121179,7 +121179,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01947&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01948": {
     "owner_name": "BISHOP HERRMANN EDWARD J",
@@ -121217,7 +121217,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01948&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09885": {
     "owner_name": "LITTLE DENNIE L SR",
@@ -121255,7 +121255,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09885&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09900": {
     "owner_name": "JBJD LLC",
@@ -121293,7 +121293,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09900&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09381": {
     "owner_name": "ALBION WM 1 LLC",
@@ -121331,7 +121331,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09381&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01271": {
     "owner_name": "DOUGLAS REIGN LLC",
@@ -121369,7 +121369,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01271&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09386": {
     "owner_name": "DOUGLAS REIGN LLC",
@@ -121407,7 +121407,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09386&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01945": {
     "owner_name": "SKOBRAK MARGARET ANN",
@@ -121445,7 +121445,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01945&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09383": {
     "owner_name": "",
@@ -121521,7 +121521,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09883&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09891": {
     "owner_name": "",
@@ -121559,7 +121559,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09891&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "PACE1-2600251": {
     "owner_name": "MOWTIVATION LAWN SERVICES LLC",
@@ -121635,7 +121635,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09889&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09389": {
     "owner_name": "HAYDCOPE HOLDINGS LLC",
@@ -121673,7 +121673,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09389&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18511": {
     "owner_name": "PERRIN KATELYN",
@@ -121711,7 +121711,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18511&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09394": {
     "owner_name": "",
@@ -121749,7 +121749,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09394&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09886": {
     "owner_name": "REHOBOTH TEMPLE CHURCH OF CHRIST",
@@ -121774,9 +121774,9 @@
     "description": "1143 E LONG ST - food truck stored and operating on church lot",
     "parcel_number": "010052715",
     "absentee_owner": true,
-    "repeat_violations": 1,
-    "lead_score": 30,
-    "lead_tags": "open, absentee",
+    "repeat_violations": 2,
+    "lead_score": 40,
+    "lead_tags": "open, repeat-2, absentee",
     "land_use": "685",
     "prop_class": "E",
     "homestead": "",
@@ -121825,7 +121825,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18508&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09395": {
     "owner_name": "AHMED SUFIAN",
@@ -121901,7 +121901,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18505&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-03",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18569": {
     "owner_name": "SPENCE OVERTON",
@@ -121939,7 +121939,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18569&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18572": {
     "owner_name": "RIGGINS DEVON",
@@ -121977,7 +121977,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18572&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09954": {
     "owner_name": "",
@@ -122015,7 +122015,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09954&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09961": {
     "owner_name": "GALLO EVA TR",
@@ -122053,7 +122053,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09961&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09439": {
     "owner_name": "PLEASANT WILLIAM A",
@@ -122091,7 +122091,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09439&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26451-01956": {
     "owner_name": "EZ HOME SOLUTIONS GROUP",
@@ -122129,7 +122129,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01956&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09434": {
     "owner_name": "AT HOLDINGS LLC",
@@ -122167,7 +122167,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09434&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18560": {
     "owner_name": "HANBY JEFFREY C",
@@ -122243,7 +122243,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09957&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09952": {
     "owner_name": "HAMILTON ALLEN ASSETS LLC",
@@ -122281,7 +122281,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09952&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09949": {
     "owner_name": "WALKER WILLIAM",
@@ -122319,7 +122319,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09949&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18563": {
     "owner_name": "MAKAN GROUP INC",
@@ -122357,7 +122357,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18563&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18561": {
     "owner_name": "STONE SANDRA ANNETTE",
@@ -122395,7 +122395,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18561&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01281": {
     "owner_name": "SWAGGERTY JUANITA",
@@ -122433,7 +122433,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01281&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09955": {
     "owner_name": "",
@@ -122471,7 +122471,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09955&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18564": {
     "owner_name": "OWENS JEANNE B CO-TR",
@@ -122509,7 +122509,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18564&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18562": {
     "owner_name": "HAYGOOD PROPERTIES LLC",
@@ -122585,7 +122585,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09956&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01957": {
     "owner_name": "VB TWO LLC",
@@ -122623,7 +122623,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01957&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09962": {
     "owner_name": "MCCRACKEN JEREMIAH H",
@@ -122661,7 +122661,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09962&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09953": {
     "owner_name": "MIDANI ARFAN",
@@ -122699,7 +122699,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09953&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18571": {
     "owner_name": "GALLO EVA TR",
@@ -122737,7 +122737,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18571&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09437": {
     "owner_name": "WALKER WILLIAM",
@@ -122775,7 +122775,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09437&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09958": {
     "owner_name": "ANDERSON LARRY D",
@@ -122813,7 +122813,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09958&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09444": {
     "owner_name": "FORREST PATRICK M",
@@ -122851,7 +122851,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09444&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09445": {
     "owner_name": "GALLO EVA TR",
@@ -122889,7 +122889,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09445&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18565": {
     "owner_name": "",
@@ -122927,7 +122927,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18565&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18570": {
     "owner_name": "CITY OF COLUMBUS OHIO",
@@ -123041,7 +123041,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18558&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18559": {
     "owner_name": "WALKER WILLIAM",
@@ -123079,7 +123079,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18559&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09433": {
     "owner_name": "BRAFFTERTON PROPERTIES LLC",
@@ -123193,7 +123193,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09951&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18567": {
     "owner_name": "MILLER LOSS",
@@ -123231,7 +123231,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18567&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01275": {
     "owner_name": "C&L INVESTMENT PROPERTIES LLC",
@@ -123269,7 +123269,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01275&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01280": {
     "owner_name": "NREA VB III LLC",
@@ -123345,7 +123345,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09945&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09933": {
     "owner_name": "GUERRERO JOSE",
@@ -123383,7 +123383,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09933&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18551": {
     "owner_name": "MILTON EARL J",
@@ -123459,7 +123459,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09425&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18545": {
     "owner_name": "",
@@ -123497,7 +123497,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18545&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09412": {
     "owner_name": "AL-MOMANI SULEIMAN",
@@ -123535,7 +123535,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09412&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09959": {
     "owner_name": "WILLIAMS EDWIN R",
@@ -123573,7 +123573,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09959&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09410": {
     "owner_name": "C&M INVESTMENTS OHIO LLC",
@@ -123611,7 +123611,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09410&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18546": {
     "owner_name": "STOUT MELANIE K",
@@ -123649,7 +123649,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18546&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09947": {
     "owner_name": "",
@@ -123687,7 +123687,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09947&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09932": {
     "owner_name": "CERTIFIED REAL ESTATE INC",
@@ -123725,7 +123725,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09932&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09941": {
     "owner_name": "BESHAY BASEM",
@@ -123763,7 +123763,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09941&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18528": {
     "owner_name": "ADUSEI-HAWKINS GEORGINA A",
@@ -123801,7 +123801,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18528&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18548": {
     "owner_name": "BESHAY BASEM",
@@ -123839,7 +123839,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18548&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09428": {
     "owner_name": "MARMASH MOHEIALDEEN SADI",
@@ -123877,7 +123877,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09428&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09929": {
     "owner_name": "AVILA SANTANA",
@@ -123915,7 +123915,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09929&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09931": {
     "owner_name": "JORDAN NICOLE",
@@ -123953,7 +123953,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09931&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09414": {
     "owner_name": "THOMAS RONNIE A II",
@@ -124029,7 +124029,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18540&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09938": {
     "owner_name": "HOLDER & SON LLC",
@@ -124067,7 +124067,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09938&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09942": {
     "owner_name": "COLUMBUS LIMESTONE INC",
@@ -124079,7 +124079,7 @@
     "property_state": "OH",
     "property_zip": "43123",
     "parcel_address": "3401 JACKSON PI",
-    "property_address": "3401 JACKSON PIKE",
+    "property_address": "0 WILLIAMS RD",
     "lead_type": "Code Enforcement",
     "doc_num": "26470-09942",
     "case_number": "26470-09942",
@@ -124105,7 +124105,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09942&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18524": {
     "owner_name": "",
@@ -124143,7 +124143,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18524&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18529": {
     "owner_name": "ONEIL SEAN W",
@@ -124219,7 +124219,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18533&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18538": {
     "owner_name": "WALKER LOUIS A",
@@ -124257,7 +124257,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18538&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18539": {
     "owner_name": "STITH SUSAN D",
@@ -124268,8 +124268,8 @@
     "property_city": "Columbus",
     "property_state": "OH",
     "property_zip": "43207",
-    "parcel_address": "1653 - 1655 S THIRD ST",
-    "property_address": "1653 S 3RD ST",
+    "parcel_address": "1649 - 1651 S THIRD ST",
+    "property_address": "1651 S 3RD ST",
     "lead_type": "Code Enforcement",
     "doc_num": "26475-18539",
     "case_number": "26475-18539",
@@ -124288,14 +124288,14 @@
     "land_use": "520",
     "prop_class": "R",
     "homestead": "",
-    "last_sale_date": "07/14/2000",
-    "last_sale_price": "50000",
+    "last_sale_date": "06/19/2000",
+    "last_sale_price": "100000",
     "year_built": "1900",
     "foreclosure_match": "",
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18539&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18541": {
     "owner_name": "MOHAMED ALWI S",
@@ -124333,7 +124333,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18541&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18556": {
     "owner_name": "",
@@ -124371,7 +124371,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18556&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26441-01278": {
     "owner_name": "MYSTR LLC",
@@ -124409,7 +124409,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01278&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09930": {
     "owner_name": "RL HOOVER ENTERPRISES LLC",
@@ -124447,7 +124447,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09930&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09419": {
     "owner_name": "HOPKINS PROPERTIES LLC",
@@ -124472,9 +124472,9 @@
     "description": "1496 ZENNER DR - Resident reports issues with lights in front upper bedroom not working. Also reports that the fan in the kitchen sparks when it runs for too long. Reports issues have been brought to landlord, but not addressed since they started at least 2 years ago. Please inspect. LG",
     "parcel_number": "010133686",
     "absentee_owner": true,
-    "repeat_violations": 1,
-    "lead_score": 40,
-    "lead_tags": "housing-code, open, absentee",
+    "repeat_violations": 3,
+    "lead_score": 60,
+    "lead_tags": "housing-code, open, repeat-3, absentee",
     "land_use": "510",
     "prop_class": "R",
     "homestead": "",
@@ -124599,7 +124599,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09427&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18523": {
     "owner_name": "HOWELL KEVIN",
@@ -124637,7 +124637,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18523&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18530": {
     "owner_name": "RALEY JOHN BRUCE",
@@ -124675,7 +124675,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18530&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26451-01954": {
     "owner_name": "21 EAST LLC",
@@ -124713,7 +124713,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01954&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09940": {
     "owner_name": "WILL CHRISTOPHER",
@@ -124751,7 +124751,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09940&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18547": {
     "owner_name": "MULLINS AMANDA",
@@ -124789,7 +124789,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18547&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18549": {
     "owner_name": "COLUMBUS LIMESTONE INC",
@@ -124799,9 +124799,9 @@
     "mailing_zip": "43076",
     "property_city": "Columbus",
     "property_state": "OH",
-    "property_zip": "43123",
+    "property_zip": "43207",
     "parcel_address": "3401 JACKSON PI",
-    "property_address": "3401 JACKSON PIKE",
+    "property_address": "0 WILLIAMS RD",
     "lead_type": "Code Enforcement",
     "doc_num": "26475-18549",
     "case_number": "26475-18549",
@@ -124827,7 +124827,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18549&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18550": {
     "owner_name": "HOME SFR BORROWER IV LLC",
@@ -124865,7 +124865,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18550&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18526": {
     "owner_name": "ICP - WELLBEING LLC",
@@ -124903,7 +124903,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18526&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09415": {
     "owner_name": "TRINH NHAN T",
@@ -124941,7 +124941,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09415&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09939": {
     "owner_name": "GAY STREET PROPERTIES LTD",
@@ -125017,7 +125017,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09923&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09935": {
     "owner_name": "DANG BAO",
@@ -125055,7 +125055,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09935&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09937": {
     "owner_name": "SHUMWAY PAMELA S",
@@ -125093,7 +125093,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09937&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18553": {
     "owner_name": "ACHARYA SUMAN",
@@ -125169,7 +125169,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18521&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09922": {
     "owner_name": "CAMARA AMADOU",
@@ -125207,7 +125207,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09922&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09943": {
     "owner_name": "OLYMPUS BORROWER LLC",
@@ -125245,7 +125245,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09943&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09411": {
     "owner_name": "",
@@ -125321,7 +125321,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18525&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09936": {
     "owner_name": "",
@@ -125359,7 +125359,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09936&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09422": {
     "owner_name": "R EMMETT HOLDINGS LLC",
@@ -125397,7 +125397,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09422&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18522": {
     "owner_name": "AMATUR-RAHMAN NAIMA",
@@ -125473,7 +125473,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18537&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18536": {
     "owner_name": "61-63 E WOODRUFF LLC",
@@ -125511,7 +125511,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18536&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09417": {
     "owner_name": "",
@@ -125549,7 +125549,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09417&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09934": {
     "owner_name": "JAAINA ABDERRAHIM",
@@ -125587,7 +125587,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09934&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09423": {
     "owner_name": "MAX BUSINESS ZONE LLC",
@@ -125625,7 +125625,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09423&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09928": {
     "owner_name": "WILLIS TERRANCE",
@@ -125663,7 +125663,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09928&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09946": {
     "owner_name": "AH4R PROPERTIES LLC",
@@ -125701,7 +125701,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09946&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26440-09430": {
     "owner_name": "SCOBY KEVIN",
@@ -125726,9 +125726,9 @@
     "description": "263 CRESTVIEW RD - Landlord was notified of sewage backup in basement Sunday, November 1st afternoon. Feces and toilet paper have flooded into our laundry area. No information has been provided regarding ETA for rectifying.",
     "parcel_number": "010049988",
     "absentee_owner": false,
-    "repeat_violations": 1,
-    "lead_score": 25,
-    "lead_tags": "housing-code, open",
+    "repeat_violations": 2,
+    "lead_score": 35,
+    "lead_tags": "housing-code, open, repeat-2",
     "land_use": "520",
     "prop_class": "R",
     "homestead": "",
@@ -125739,7 +125739,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09430&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18552": {
     "owner_name": "HOPKINS WILLIAM G",
@@ -125777,7 +125777,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18552&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26450-01955": {
     "owner_name": "MESSERSMITH PROPERTY MANAGEMENT LLC",
@@ -125815,7 +125815,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01955&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18542": {
     "owner_name": "90 EAST FOURTEENTH LLC",
@@ -125853,7 +125853,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18542&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26470-09944": {
     "owner_name": "ESCUDERO BRYAN",
@@ -125891,7 +125891,7 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09944&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
   },
   "26475-18532": {
     "owner_name": "DOTSON PAM",
@@ -125929,6 +125929,2134 @@
     "foreclosure_case_number": "",
     "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18532&agencyCode=COLUMBUS&IsToShowInspection=",
     "date_added": "2026-11-04",
-    "last_seen": "2026-11-04"
+    "last_seen": "2026-11-05"
+  },
+  "26440-09469": {
+    "owner_name": "",
+    "mailing_address": "",
+    "mailing_city": "",
+    "mailing_state": "",
+    "mailing_zip": "",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43147",
+    "parcel_address": "",
+    "property_address": "3299 TUMWATER VALLEY DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09469",
+    "case_number": "26440-09469",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "3299 TUMWATER VALLEY DR - LARGE tree branch damaged during storm; likely to snap off soon. Has been like this for at least three months.",
+    "parcel_number": "",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 25,
+    "lead_tags": "housing-code, open",
+    "land_use": "",
+    "prop_class": "",
+    "homestead": "",
+    "last_sale_date": "",
+    "last_sale_price": "",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09469&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09973": {
+    "owner_name": "ABDELQADER ADNAN",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43123",
+    "parcel_address": "2623 ADMIRAL DR",
+    "property_address": "2623 ADMIRAL DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09973",
+    "case_number": "26470-09973",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/311 Complaint/NA",
+    "record_status": "Active",
+    "description": "2623 ADMIRAL DR - Resident owns 2617 ADMIRAL DR is calling about the neighbor at 2623 ADMIRAL DR has recently put up property stakes on their property line that have no trespassing signs and a garden border fence that is a foot high and is not code approved. Please inspect.",
+    "parcel_number": "570236971",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 30,
+    "lead_tags": "open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "04/11/2006",
+    "last_sale_price": "0",
+    "year_built": "1999",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09973&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09470": {
+    "owner_name": "NGI LLC",
+    "mailing_address": "11840 BRIGHT PSGE",
+    "mailing_city": "Columbia",
+    "mailing_state": "MD",
+    "mailing_zip": "21044",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43211",
+    "parcel_address": "1637 MYRTLE AVE",
+    "property_address": "1637 MYRTLE AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09470",
+    "case_number": "26440-09470",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "1637 MYRTLE AVE - House needs work. Owner is a slumlord.",
+    "parcel_number": "010060160",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 40,
+    "lead_tags": "housing-code, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "10/27/2014",
+    "last_sale_price": "7000",
+    "year_built": "1910",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09470&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09475": {
+    "owner_name": "INDEPENDANCE VILLAGE REALTY LLC",
+    "mailing_address": "6846 GEMSTAR RD",
+    "mailing_city": "Reynoldsburg",
+    "mailing_state": "OH",
+    "mailing_zip": "43068",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43068",
+    "parcel_address": "6743 - 6763 GEMSTAR RD",
+    "property_address": "6763 GEMSTAR RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09475",
+    "case_number": "26440-09475",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "6763 GEMSTAR RD - Caller states in the beginning of September she has noticed a large presence of mice in her unit and was told that it was due to the recent flooding. The maintenance team provided her with bait traps and has come a few times to replenish the traps but they have not done any inspections for entry points. The resident has caught 17 mice from September to now and she has noticed a hole underneath her kitchen sink, the caller would like code enforcement to do an inspection as soon as possible,\nPlease assist",
+    "parcel_number": "530210663",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 40,
+    "lead_tags": "housing-code, open, absentee",
+    "land_use": "403",
+    "prop_class": "C",
+    "homestead": "",
+    "last_sale_date": "08/29/2022",
+    "last_sale_price": "11000000",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09475&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09471": {
+    "owner_name": "BAUMAN JENNIFER",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43110",
+    "parcel_address": "6401 BRICE DALE DR",
+    "property_address": "6401 BRICE DALE DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09471",
+    "case_number": "26440-09471",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Interior/General",
+    "record_status": "PACE - Active",
+    "description": "New license inspection",
+    "parcel_number": "010239026",
+    "absentee_owner": true,
+    "repeat_violations": 2,
+    "lead_score": 50,
+    "lead_tags": "housing-code, open, repeat-2, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "08/11/2009",
+    "last_sale_price": "108400",
+    "year_built": "1998",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09471&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09979": {
+    "owner_name": "GONZALEZ RUBEN DOMINGUEZ",
+    "mailing_address": "151 GALLOWAY RIDGE DR",
+    "mailing_city": "Galloway",
+    "mailing_state": "OH",
+    "mailing_zip": "43119",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43119",
+    "parcel_address": "151 GALLOWAY RIDGE DR",
+    "property_address": "151 GALLOWAY RIDGE DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09979",
+    "case_number": "26470-09979",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Inoperable Vehicle Storage/NA",
+    "record_status": "Active",
+    "description": "151 GALLOWAY RIDGE DR - in this property several cars are parked blocking the sideways, it is an issue and dangerous for the kids that walk in this street.",
+    "parcel_number": "570239785",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 41,
+    "lead_tags": "unsafe-structure, inoperable-vehicle, open",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "11/08/2024",
+    "last_sale_price": "0",
+    "year_built": "1998",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09979&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09473": {
+    "owner_name": "PLETCHER APRIL J",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43228",
+    "parcel_address": "4848 DEEPHOLLOW DR",
+    "property_address": "4848 DEEPHOLLOW DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09473",
+    "case_number": "26440-09473",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "4848 DEEPHOLLOW DR - The residence is in continuous disrepair just keeps getting worse, creates a rat problem and is a fire hazard due to hording",
+    "parcel_number": "570193496",
+    "absentee_owner": true,
+    "repeat_violations": 2,
+    "lead_score": 60,
+    "lead_tags": "fire, housing-code, open, repeat-2, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "03/30/2009",
+    "last_sale_price": "0",
+    "year_built": "1983",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09473&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18604": {
+    "owner_name": "TENNENBAUM NANETTE L",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43206",
+    "parcel_address": "724 THURMAN AVE",
+    "property_address": "724 THURMAN AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18604",
+    "case_number": "26475-18604",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "724 THURMAN AVE - garbage in the yard and along Heyl Ave",
+    "parcel_number": "010094918",
+    "absentee_owner": true,
+    "repeat_violations": 6,
+    "lead_score": 66,
+    "lead_tags": "overgrown, open, repeat-6, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "12/19/2005",
+    "last_sale_price": "95000",
+    "year_built": "1919",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18604&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18599": {
+    "owner_name": "ARCHWAY CITY 001 LLC",
+    "mailing_address": "1985 W HENDERSON RD PMB 64233",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43220",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43223",
+    "parcel_address": "2151 - 2153 W MOUND ST",
+    "property_address": "2151 W MOUND ST",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18599",
+    "case_number": "26475-18599",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Occupied/Solid Waste",
+    "record_status": "Active",
+    "description": "Huge pile of trash, carpeting, and discarded household items from what looks like a clean out.",
+    "parcel_number": "010015450",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 38,
+    "lead_tags": "trash-debris, open, absentee",
+    "land_use": "520",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "03/25/2024",
+    "last_sale_price": "165000",
+    "year_built": "1953",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18599&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18600": {
+    "owner_name": "KIRK KENNETH",
+    "mailing_address": "246 LOXLEY DR",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43207",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43207",
+    "parcel_address": "246 LOXLEY DR",
+    "property_address": "246 LOXLEY DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18600",
+    "case_number": "26475-18600",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "246 LOXLEY DR - HOMELESS CAMP dumping trash, needles, stollen wire, containers so urine all along the woods and road on LOXLEY DR",
+    "parcel_number": "010113820",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 29,
+    "lead_tags": "trash-debris, overgrown, open",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "Y",
+    "last_sale_date": "05/31/2001",
+    "last_sale_price": "15000",
+    "year_built": "1949",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18600&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09976": {
+    "owner_name": "BEDESHKO LYUBOV",
+    "mailing_address": "812 ELIOTS OAK RD",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43228",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43228",
+    "parcel_address": "812 ELIOTS OAK RD",
+    "property_address": "812 ELIOTS OAK RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09976",
+    "case_number": "26470-09976",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Inoperable Vehicle Storage/NA",
+    "record_status": "Active",
+    "description": "812 ELIOTS OAK RD - Junk vehicle sits in drive now. Was parked on street for months. Was ticketed multiple times now sits in driveway for months doesn't move.",
+    "parcel_number": "570164612",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 29,
+    "lead_tags": "junk-vehicles, inoperable-vehicle, open",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "06/13/2011",
+    "last_sale_price": "0",
+    "year_built": "1978",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09976&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09978": {
+    "owner_name": "ADUTWUM GEORGE GYIMAH",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43229",
+    "parcel_address": "1113 UPLAND DR",
+    "property_address": "1113 UPLAND DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09978",
+    "case_number": "26470-09978",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Primary Use/NA",
+    "record_status": "Active",
+    "description": "1113 UPLAND DR - The front porch is being used as storage of furniture or items that should be indoors. There are literally hangers in the bushes and clothesline (also on front porch). Items are thrown about in the yard and side of the house. Cardboard boxes have been erected on the side to prevent visibility of the back yard.",
+    "parcel_number": "010143007",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 30,
+    "lead_tags": "open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "05/17/2024",
+    "last_sale_price": "332000",
+    "year_built": "1966",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09978&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "PACE1-2600258": {
+    "owner_name": "BAUMAN JENNIFER",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43110",
+    "parcel_address": "6401 BRICE DALE DR",
+    "property_address": "6401 BRICE DALE DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "PACE1-2600258",
+    "case_number": "PACE1-2600258",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "PACE 1",
+    "record_status": "Active",
+    "description": "New license inspection",
+    "parcel_number": "010239026",
+    "absentee_owner": true,
+    "repeat_violations": 2,
+    "lead_score": 40,
+    "lead_tags": "open, repeat-2, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "08/11/2009",
+    "last_sale_price": "108400",
+    "year_built": "1998",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26CAP&capID2=00000&capID3=01ERR&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26450-01959": {
+    "owner_name": "SCOTT CARLOS",
+    "mailing_address": "1789 GOETHE ST",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43207",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43207",
+    "parcel_address": "1789 GOETHE AVE",
+    "property_address": "1789 GOETHE AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26450-01959",
+    "case_number": "26450-01959",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Vacant Structure Inspection/Residential/Exterior Violations",
+    "record_status": "Active",
+    "description": "Vacant property",
+    "parcel_number": "010017196",
+    "absentee_owner": true,
+    "repeat_violations": 2,
+    "lead_score": 73,
+    "lead_tags": "vacant, exterior-violation, open, repeat-2, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "01/27/2025",
+    "last_sale_price": "0",
+    "year_built": "1900",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01959&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09975": {
+    "owner_name": "PLETCHER APRIL J",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43228",
+    "parcel_address": "4848 DEEPHOLLOW DR",
+    "property_address": "4848 DEEPHOLLOW DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09975",
+    "case_number": "26470-09975",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Inoperable Vehicle Storage/NA",
+    "record_status": "Active",
+    "description": "4848 DEEPHOLLOW DR - Multiple junk vehicles",
+    "parcel_number": "570193496",
+    "absentee_owner": true,
+    "repeat_violations": 2,
+    "lead_score": 54,
+    "lead_tags": "junk-vehicles, inoperable-vehicle, open, repeat-2, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "03/30/2009",
+    "last_sale_price": "0",
+    "year_built": "1983",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09975&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09977": {
+    "owner_name": "FUSION AUTO GROUP LLC",
+    "mailing_address": "1625 SILVERLAWN DR",
+    "mailing_city": "Grove City",
+    "mailing_state": "OH",
+    "mailing_zip": "43123",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43204",
+    "parcel_address": "2676 BRIGGS RD",
+    "property_address": "2676 BRIGGS RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09977",
+    "case_number": "26470-09977",
+    "filing_date": "2026-11-05",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Inoperable Vehicle Storage/NA",
+    "record_status": "Active",
+    "description": "2676 BRIGGS RD - The car repair shop on Briggs Road at the corner of Saint Cecelia is an absolute mess. There are trucks parked everywhere.",
+    "parcel_number": "010015166",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 36,
+    "lead_tags": "inoperable-vehicle, open, absentee",
+    "land_use": "455",
+    "prop_class": "C",
+    "homestead": "",
+    "last_sale_date": "05/12/2010",
+    "last_sale_price": "49900",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09977&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09463": {
+    "owner_name": "ERIN LOUISE LLC",
+    "mailing_address": "12843 W JEWELL CIR",
+    "mailing_city": "Lakewood",
+    "mailing_state": "CO",
+    "mailing_zip": "80228",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43204",
+    "parcel_address": "52 - 54 OGDEN AVE",
+    "property_address": "54 N OGDEN AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09463",
+    "case_number": "26440-09463",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "54 N OGDEN AVE - states clogged toilet, and water is coming up through bathtub. States no assistance from property managers.\n\nPlease assist \nResident states this is not the first time an issue has occurred",
+    "parcel_number": "010077839",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 40,
+    "lead_tags": "housing-code, open, absentee",
+    "land_use": "520",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "12/20/2022",
+    "last_sale_price": "0",
+    "year_built": "1922",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09463&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18586": {
+    "owner_name": "COURI DANIEL J TR",
+    "mailing_address": "4938 POSTLEWAITE RD",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43235",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43220",
+    "parcel_address": "1076 PARKLEIGH RD",
+    "property_address": "1076 PARKLEIGH RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18586",
+    "case_number": "26475-18586",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds",
+    "record_status": "Active",
+    "description": "1076 PARKLEIGH RD - Resident called to report neighbor behind her at 1076 Parkleigh has over grown grass and high weeds. MEC",
+    "parcel_number": "010131485",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 36,
+    "lead_tags": "overgrown, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "09/13/2021",
+    "last_sale_price": "0",
+    "year_built": "1963",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18586&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18577": {
+    "owner_name": "LURIE FAMILY LIMITED PARTNERSHIP",
+    "mailing_address": "1667 GALLEON BLVD",
+    "mailing_city": "Hilliard",
+    "mailing_state": "OH",
+    "mailing_zip": "43026",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43230",
+    "parcel_address": "5235 - 5251 N HAMILTON RD",
+    "property_address": "5251 N HAMILTON RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18577",
+    "case_number": "26475-18577",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "5251 N HAMILTON RD - 5251 N. Hamilton Rd. Trash and Debris around dumpster area. \nDumpster area - Trash and Debris on Property. Also about 6 Large buckets filled with Asphalt from May in the parking lot as well. Please check. Thank you.",
+    "parcel_number": "545276947",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 44,
+    "lead_tags": "trash-debris, overgrown, open, absentee",
+    "land_use": "420",
+    "prop_class": "C",
+    "homestead": "",
+    "last_sale_date": "08/01/2022",
+    "last_sale_price": "0",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18577&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09453": {
+    "owner_name": "QUEENS MULTI-SERVICES LLC",
+    "mailing_address": "901 CORPORATE CENTER DR",
+    "mailing_city": "Pomona",
+    "mailing_state": "CA",
+    "mailing_zip": "91768",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43211",
+    "parcel_address": "1668 - 1670 N CLEVELAND AVE",
+    "property_address": "1668 CLEVELAND AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09453",
+    "case_number": "26440-09453",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "1668 CLEVELAND AVE - The roof have been leaking for a entire year now mold all over the place and now the ceiling have fell off in my six year old daughter room. The living room was missing a glass in one of the windows before I moved in and it’s still the same condition a year later one of the bedrooms have broken window. The structure of the building is not in good condition. ?",
+    "parcel_number": "010054228",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 50,
+    "lead_tags": "housing-code, roof, open, absentee",
+    "land_use": "520",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "11/05/2020",
+    "last_sale_price": "49900",
+    "year_built": "1926",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09453&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09450": {
+    "owner_name": "ARDMORE PROPERTY LLC",
+    "mailing_address": "",
+    "mailing_city": "",
+    "mailing_state": "",
+    "mailing_zip": "",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43213",
+    "parcel_address": "489 ASHBURTON RD",
+    "property_address": "489 S ASHBURTON RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09450",
+    "case_number": "26440-09450",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "489 S ASHBURTON RD - I reported a mold/mildew issue in my new home through the HVAC system when I moved into the unit on 9/11/26. I followed up with my landlord many times since then and they have yet to investigate or address the issue. Breathing in this air caused my asthma to flare up, and I had to evacuate the residence for my own safety on October 5th.",
+    "parcel_number": "010340641",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 25,
+    "lead_tags": "housing-code, open",
+    "land_use": "",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "01/08/2025",
+    "last_sale_price": "0",
+    "year_built": "1949",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09450&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09963": {
+    "owner_name": "SCHAUB MARTIN W",
+    "mailing_address": "2397 S 6TH ST",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43207",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43207",
+    "parcel_address": "2397 SIXTH ST",
+    "property_address": "2397 S 6TH ST",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09963",
+    "case_number": "26470-09963",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Inoperable Vehicle Storage/NA",
+    "record_status": "Active",
+    "description": "2397 S 6TH ST - In the rear of the property by the alley there is a Chevy Equinox missing wheels and also has broken windows.",
+    "parcel_number": "010112909",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 21,
+    "lead_tags": "inoperable-vehicle, open",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "06/04/1991",
+    "last_sale_price": "36000",
+    "year_built": "1900",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09963&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18580": {
+    "owner_name": "SMITH DEVON J",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43204",
+    "parcel_address": "332 N WARREN AVE",
+    "property_address": "332 N WARREN AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18580",
+    "case_number": "26475-18580",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds",
+    "record_status": "Active",
+    "description": "332 N WARREN AVE - per email 11.03.26 ns\n\nFence needs repaired, trash and high weeds.\n332 n. Warren Ave. 43204",
+    "parcel_number": "010043984",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 44,
+    "lead_tags": "trash-debris, overgrown, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "11/17/2020",
+    "last_sale_price": "133500",
+    "year_built": "1923",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18580&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09459": {
+    "owner_name": "SCOBY KEVIN",
+    "mailing_address": "265 CRESTVIEW RD",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43202",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43202",
+    "parcel_address": "263 - 265 CRESTVIEW RD",
+    "property_address": "263 CRESTVIEW RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09459",
+    "case_number": "26440-09459",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "263 CRESTVIEW RD - Following the Derecho over the summer, we alerted our Landlord that there was water damage to the ceiling in our bedroom and were worried the roof might be leaking. We were told that it wasn't leaking after they inspected it and nothing else was done. The attic insulation has torn loose in places showing black mold on a few pieces. On most there is evidence of water damage. This was reported to our landlord on Saturday, October 31st with no estimate of when it will be addressed other than they were having a contractor inspect and repair. I would like an independent evaluation done to make sure housing code is being observed. There is also mold throughout the basement that may not have been treated prior to occupancy that I would like evaluated.",
+    "parcel_number": "010049988",
+    "absentee_owner": false,
+    "repeat_violations": 2,
+    "lead_score": 45,
+    "lead_tags": "housing-code, roof, open, repeat-2",
+    "land_use": "520",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "06/11/2025",
+    "last_sale_price": "351000",
+    "year_built": "1925",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09459&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18588": {
+    "owner_name": "PARK VISTA I LP",
+    "mailing_address": "1 N LASALLE ST STE 2100",
+    "mailing_city": "Chicago",
+    "mailing_state": "IL",
+    "mailing_zip": "60602",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43231",
+    "parcel_address": "3047 VISTA VIEW BL",
+    "property_address": "3047 VISTA VIEW BLVD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18588",
+    "case_number": "26475-18588",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Occupied/Infestation",
+    "record_status": "Active",
+    "description": "3047 VISTA VIEW BLVD - Wednesday, November 04, 2026 @ 09:42 am.\n\nHi Haley.\n\nThe exterminators did not show up yesterday on Tuesday, November 03, 2026.\n\nI believe the agreement is for the exterminators to show up bi-weekly to spray my unit for roaches.\n\nA few weeks ago, the exterminator informed me that he was going to speak with you concerning keeping regular pest control visits to my hike. As was previously agreed to. But the exterminator man stat3d that you would have to approv3 extermination visits to my apartment. \n\nPlease reply this email and let me know the status of your approving extermination visits to my apartment.\n\nBecause, roaches are rapidly reproducing and spreading.\n\nThank you.",
+    "parcel_number": "600248109",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 40,
+    "lead_tags": "infestation, open, absentee",
+    "land_use": "553",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "11/22/2022",
+    "last_sale_price": "0",
+    "year_built": "1998",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18588&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18589": {
+    "owner_name": "BUCKET INVESTMENTS LLC",
+    "mailing_address": "14 S HIGH ST",
+    "mailing_city": "New Albany",
+    "mailing_state": "OH",
+    "mailing_zip": "43054",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43205",
+    "parcel_address": "737 BEDFORD AVE",
+    "property_address": "737 BEDFORD AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18589",
+    "case_number": "26475-18589",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "737 BEDFORD AVE - It has been over 4 months trash with cat feces on the back of the house remains near alley and inside backyard. Trash is scattered attracting rats,snakes and other pest. Old Oaks cleaning group collected a lot during our trash pickup event, but more continues to apear. Non outdoor furniture is on the front porch, a rat was seen going in the front screen door.",
+    "parcel_number": "010055679",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 44,
+    "lead_tags": "trash-debris, overgrown, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "12/15/2020",
+    "last_sale_price": "170000",
+    "year_built": "1915",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18589&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09461": {
+    "owner_name": "GORELOV ARTEM",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43201",
+    "parcel_address": "386 - 388 FOURTEENTH AVE",
+    "property_address": "388 14TH AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09461",
+    "case_number": "26440-09461",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "388 14TH AVE - Structural damage to roof, causing leakage into home, multiple ceilings have fallen . bugs can get in easily",
+    "parcel_number": "010021824",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 65,
+    "lead_tags": "housing-code, roof, structural, open, absentee",
+    "land_use": "520",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "10/26/2021",
+    "last_sale_price": "351000",
+    "year_built": "1914",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09461&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09966": {
+    "owner_name": "LUMLEY TAYLOR",
+    "mailing_address": "2901 E 12TH AVE",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43219",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43219",
+    "parcel_address": "2901 E TWELFTH AVE",
+    "property_address": "2901 E 12TH AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09966",
+    "case_number": "26470-09966",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Vision Obstruction/NA",
+    "record_status": "Active",
+    "description": "Vision Clearance - Shrubs between 2985 and 2901",
+    "parcel_number": "010092480",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 15,
+    "lead_tags": "open",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "06/29/2018",
+    "last_sale_price": "49900",
+    "year_built": "1950",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09966&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26444-00104": {
+    "owner_name": "GOODMAN HEATHER",
+    "mailing_address": "141 E BECK ST",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43206",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43206",
+    "parcel_address": "141 - 143 E BECK ST",
+    "property_address": "143 E BECK ST",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26444-00104",
+    "case_number": "26444-00104",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Planning Code/Area Commission/Area Commission",
+    "record_status": "Active",
+    "description": "143 E BECK ST - White TPO roof visible from the street, businesses, and neighboring homes.",
+    "parcel_number": "010020796",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 25,
+    "lead_tags": "roof, open",
+    "land_use": "520",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "03/04/2025",
+    "last_sale_price": "831000",
+    "year_built": "1900",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26452&capID2=00000&capID3=00104&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18584": {
+    "owner_name": "BLUME CHRISTOPHER M",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43220",
+    "parcel_address": "1065 KENLEY AVE",
+    "property_address": "1065 KENLEY AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18584",
+    "case_number": "26475-18584",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "1065 KENLEY AVE - Resident called to report neighbor at 1065 Kenley Ave having over grown grass and tree pile causing rodents onto her property. MEC",
+    "parcel_number": "010131471",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 46,
+    "lead_tags": "overgrown, infestation, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "10/20/2020",
+    "last_sale_price": "385100",
+    "year_built": "1962",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18584&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18587": {
+    "owner_name": "MILLER MARK D",
+    "mailing_address": "PO BOX 1385",
+    "mailing_city": "Hilliard",
+    "mailing_state": "OH",
+    "mailing_zip": "43026",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43222",
+    "parcel_address": "108 - 110 GUILFORD AVE",
+    "property_address": "108 N GUILFORD AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18587",
+    "case_number": "26475-18587",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "108 N GUILFORD AVE - Caller states there are 2 mattresses leaning against 108 N GUILFORD AVE as well as lots of trash bags in the front of the property,\nPlease assist",
+    "parcel_number": "010019926",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 44,
+    "lead_tags": "trash-debris, overgrown, open, absentee",
+    "land_use": "520",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "02/23/2001",
+    "last_sale_price": "23500",
+    "year_built": "1900",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18587&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18590": {
+    "owner_name": "",
+    "mailing_address": "",
+    "mailing_city": "",
+    "mailing_state": "",
+    "mailing_zip": "",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43224",
+    "parcel_address": "",
+    "property_address": "2263 MORSE RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18590",
+    "case_number": "26475-18590",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "2263 MORSE RD - Caller is reporting a homeless encampment in the vacant lots be hind the address in the trees. States it looks like they built a structure.",
+    "parcel_number": "",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 46,
+    "lead_tags": "vacant, overgrown, open",
+    "land_use": "",
+    "prop_class": "",
+    "homestead": "",
+    "last_sale_date": "",
+    "last_sale_price": "",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18590&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18576": {
+    "owner_name": "BLUE HORIZON PROPERTIES GROUP LLC",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43223",
+    "parcel_address": "1914 MOUND ST",
+    "property_address": "1914 W MOUND ST",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18576",
+    "case_number": "26475-18576",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds",
+    "record_status": "Active",
+    "description": "1914 W MOUND ST - so many weeds on fence on both Mound Street and Columbian. can not safely see traffic coming from the west on Mound street when traveling south on Columbian Ave",
+    "parcel_number": "010068109",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 36,
+    "lead_tags": "overgrown, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "12/06/2022",
+    "last_sale_price": "0",
+    "year_built": "1946",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18576&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18594": {
+    "owner_name": "1542 PICARD LLC",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43227",
+    "parcel_address": "1542 PICARD RD",
+    "property_address": "1542 PICARD RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18594",
+    "case_number": "26475-18594",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds",
+    "record_status": "Active",
+    "description": "1542 PICARD RD - The owners rent this house out and have done so for many years. For the past 4 years, I have professionally, politely requested the company that manages this property, to please remove all the debris and mainly, remove or cut down this huge pine tree that has grown completely onto/over my driveway and property. I am unable to pull my car to the back of my driveway because this pine tree is hovering over the back of my entire driveway. I have been very patient and kind all these years but this same tree caused damaged to my vehicle last year and was very expensive to repair. I will not allow this to happen again, nor will I be forced out of my own driveway. I am a home OWNER, not a renter.\nCan you please advise on what I need to do to get this handled? The home owners live out of state and use a management company to \"handle\" this property.",
+    "parcel_number": "010101070",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 44,
+    "lead_tags": "trash-debris, overgrown, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "01/12/2023",
+    "last_sale_price": "0",
+    "year_built": "1958",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18594&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09971": {
+    "owner_name": "FULTZ ISAAC D",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43119",
+    "parcel_address": "5712 MORNINGSTAR DR",
+    "property_address": "5712 MORNINGSTAR DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09971",
+    "case_number": "26470-09971",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Inoperable Vehicle Storage/NA",
+    "record_status": "Active",
+    "description": "5712 MORNINGSTAR DR - For a long time, a utility trailer has been parked on the lawn.",
+    "parcel_number": "570211994",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 36,
+    "lead_tags": "inoperable-vehicle, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "06/18/2018",
+    "last_sale_price": "0",
+    "year_built": "1989",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09971&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18595": {
+    "owner_name": "SCHWEISTHAL CARL B",
+    "mailing_address": "8805 GOVERNORS HILL DR",
+    "mailing_city": "Cincinnati",
+    "mailing_state": "OH",
+    "mailing_zip": "45249",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43221",
+    "parcel_address": "987 FACULTY DR",
+    "property_address": "987 FACULTY DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18595",
+    "case_number": "26475-18595",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds",
+    "record_status": "Active",
+    "description": "987 FACULTY DR - Backyard neighbors moved last week and left trash/ furniture outside and inside the property. Also they never cleaned/mowed their lawn and that can attract pests to our house.",
+    "parcel_number": "010099894",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 44,
+    "lead_tags": "trash-debris, overgrown, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "11/13/2003",
+    "last_sale_price": "144000",
+    "year_built": "1957",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18595&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09447": {
+    "owner_name": "HOPKINS PROPERTIES LLC",
+    "mailing_address": "PO BOX 821",
+    "mailing_city": "La Jolla",
+    "mailing_state": "CA",
+    "mailing_zip": "92038",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43207",
+    "parcel_address": "1496 ZENNER DR",
+    "property_address": "1496 ZENNER DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09447",
+    "case_number": "26440-09447",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Interior/General",
+    "record_status": "Active",
+    "description": "Complainant states furnace needs inspection.",
+    "parcel_number": "010133686",
+    "absentee_owner": true,
+    "repeat_violations": 3,
+    "lead_score": 60,
+    "lead_tags": "housing-code, open, repeat-3, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "01/09/2013",
+    "last_sale_price": "0",
+    "year_built": "1968",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09447&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18579": {
+    "owner_name": "CD HOME RENTALS LLC",
+    "mailing_address": "4960 E DUBLIN GRANVILLE RD STE 400",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43081",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43227",
+    "parcel_address": "1255 BEECHWOOD RD",
+    "property_address": "1255 BEECHWOOD RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18579",
+    "case_number": "26475-18579",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Occupied/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "High grass, rank growth of vegetation and solid waste observed during the inspection.",
+    "parcel_number": "010099663",
+    "absentee_owner": true,
+    "repeat_violations": 3,
+    "lead_score": 56,
+    "lead_tags": "overgrown, open, repeat-3, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "04/08/2013",
+    "last_sale_price": "25000",
+    "year_built": "1958",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18579&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26441-01282": {
+    "owner_name": "",
+    "mailing_address": "",
+    "mailing_city": "",
+    "mailing_state": "",
+    "mailing_zip": "",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43081",
+    "parcel_address": "",
+    "property_address": "5275 SILVERTHORNE RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26441-01282",
+    "case_number": "26441-01282",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Emergency Order/Interior/Other Emergency",
+    "record_status": "Active",
+    "description": "Exposed exterior electrical wiring from HVAC unit- squirrels chewed through covering.",
+    "parcel_number": "",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 23,
+    "lead_tags": "exterior-violation, open",
+    "land_use": "",
+    "prop_class": "",
+    "homestead": "",
+    "last_sale_date": "",
+    "last_sale_price": "",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26003&capID2=00000&capID3=01282&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18585": {
+    "owner_name": "MT CASTLE JEFFREY A",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43223",
+    "parcel_address": "1817 ST LAWRENCE DR",
+    "property_address": "1817 ST LAWRENCE DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18585",
+    "case_number": "26475-18585",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Solid Waste",
+    "record_status": "Active",
+    "description": "Yard waste, tree logs/limbs up against the fence for 1823 St Lawrence Dr",
+    "parcel_number": "570243666",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 30,
+    "lead_tags": "open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "06/19/2018",
+    "last_sale_price": "0",
+    "year_built": "2000",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18585&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09970": {
+    "owner_name": "SINGLETON REBECCA J",
+    "mailing_address": "901 CORPORATE CENTER DR",
+    "mailing_city": "Pomona",
+    "mailing_state": "CA",
+    "mailing_zip": "91768",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43119",
+    "parcel_address": "5688 MORNINGSTAR DR",
+    "property_address": "5688 MORNINGSTAR DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09970",
+    "case_number": "26470-09970",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Primary Use/NA",
+    "record_status": "Active",
+    "description": "5688 MORNINGSTAR DR - Upholstered chair, cat condo and other trash in front of the garage doors.",
+    "parcel_number": "570211996",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 38,
+    "lead_tags": "trash-debris, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "06/28/2023",
+    "last_sale_price": "0",
+    "year_built": "1991",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09970&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18591": {
+    "owner_name": "SANCUS BLVD DUCHESS LLC",
+    "mailing_address": "447 JAMES PKWY",
+    "mailing_city": "Heath",
+    "mailing_state": "OH",
+    "mailing_zip": "43056",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43085",
+    "parcel_address": "7525 SANCUS BL",
+    "property_address": "7525 SANCUS BLVD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18591",
+    "case_number": "26475-18591",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Occupied/Infestation",
+    "record_status": "Active",
+    "description": "7525 SANCUS BLVD - rat infestation outside apartment complex",
+    "parcel_number": "610252425",
+    "absentee_owner": true,
+    "repeat_violations": 2,
+    "lead_score": 50,
+    "lead_tags": "infestation, open, repeat-2, absentee",
+    "land_use": "458",
+    "prop_class": "C",
+    "homestead": "",
+    "last_sale_date": "02/15/2017",
+    "last_sale_price": "0",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18591&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09965": {
+    "owner_name": "GARY JODY",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43125",
+    "parcel_address": "3823 CASS CREEK CT",
+    "property_address": "3823 CASS CREEK CT",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09965",
+    "case_number": "26470-09965",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Inoperable Vehicle Storage/NA",
+    "record_status": "Active",
+    "description": "3823 CASS CREEK CT - CAR PARKED IN GRASSY SIDE YARD AT 3673 HENDRON DR\n\ncaller states for about a year now there has been a SILVER/ GRAY CAR parked along the south side of the driveway and south side home at 3673 Hendron; states occupants had removed their fence panel/s, moved the car there then replaced the fence panels to cover the car; unsure of MAKE/MODEL; caller does not want retaliation and is giving permission given to report under and view this from caller's address of 3823 Cass Creek Ct; please assist; thank you",
+    "parcel_number": "530179534",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 36,
+    "lead_tags": "inoperable-vehicle, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "08/22/2018",
+    "last_sale_price": "135000",
+    "year_built": "1984",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09965&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09455": {
+    "owner_name": "MOHLER PAUL M",
+    "mailing_address": "PO BOX 9202",
+    "mailing_city": "Coppell",
+    "mailing_state": "TX",
+    "mailing_zip": "75019",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43081",
+    "parcel_address": "642 LAWSON DR",
+    "property_address": "642 LAWSON DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09455",
+    "case_number": "26440-09455",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "642 LAWSON DR - Homeowner of 648 Lawson Drive has a sump pump line discharge and downspout directed at our house at 642 Lawson Drive. This is creating a perpetual wet spot on our land that may impact the garage foundation and erode the driveway as well as create a health hazard. The owner has been notified on three different occasions the past two weeks and is not doing anything to rectify the situation.",
+    "parcel_number": "610203954",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 40,
+    "lead_tags": "housing-code, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "07/27/2017",
+    "last_sale_price": "224900",
+    "year_built": "1987",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09455&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09466": {
+    "owner_name": "HAUGHTON BARRIE",
+    "mailing_address": "76 E LAKEVIEW AVE",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43202",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43202",
+    "parcel_address": "76 LAKEVIEW AVE",
+    "property_address": "76 E LAKEVIEW AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09466",
+    "case_number": "26440-09466",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "76 E LAKEVIEW AVE - Sump pump empties directly onto the sidewalk. In the winter this causes hazardous conditions with freezing water.",
+    "parcel_number": "010009685",
+    "absentee_owner": false,
+    "repeat_violations": 2,
+    "lead_score": 35,
+    "lead_tags": "housing-code, open, repeat-2",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "07/07/2020",
+    "last_sale_price": "349900",
+    "year_built": "1920",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09466&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09468": {
+    "owner_name": "",
+    "mailing_address": "",
+    "mailing_city": "",
+    "mailing_state": "",
+    "mailing_zip": "",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43204",
+    "parcel_address": "",
+    "property_address": "2900 ANGELO JOSEPH LN",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09468",
+    "case_number": "26440-09468",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "2900 ANGELO JOSEPH LN - The apartment community I reside at experienced a recent power outage. During which, I exited my unit to find none of the emergency lights were on. It was disorienting with how dark it was outside. I believe this happened once before during the day. I informed management of the safety issue and violation at that time but clearly no action was taken and the lights have obviously not been routinely checked. This community and the joining property are owned and operated by the same company. Therefore, I have reason to believe the joining property’s emergency lights are also a safety concern and violation.",
+    "parcel_number": "",
+    "absentee_owner": false,
+    "repeat_violations": 1,
+    "lead_score": 25,
+    "lead_tags": "housing-code, open",
+    "land_use": "",
+    "prop_class": "",
+    "homestead": "",
+    "last_sale_date": "",
+    "last_sale_price": "",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09468&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09448": {
+    "owner_name": "HOPKINS PROPERTIES LLC",
+    "mailing_address": "PO BOX 821",
+    "mailing_city": "La Jolla",
+    "mailing_state": "CA",
+    "mailing_zip": "92038",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43207",
+    "parcel_address": "1496 ZENNER DR",
+    "property_address": "1496 ZENNER DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09448",
+    "case_number": "26440-09448",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "1496 ZENNER DR - resident reports furnace was installed in rental unit without a permit. states installation looks hazardous.",
+    "parcel_number": "010133686",
+    "absentee_owner": true,
+    "repeat_violations": 3,
+    "lead_score": 60,
+    "lead_tags": "housing-code, open, repeat-3, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "01/09/2013",
+    "last_sale_price": "0",
+    "year_built": "1968",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09448&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26450-01958": {
+    "owner_name": "FRAIME DONALD L",
+    "mailing_address": "950 BERKELEY RD",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43206",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43206",
+    "parcel_address": "950 BERKELEY RD",
+    "property_address": "950 BERKELEY RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26450-01958",
+    "case_number": "26450-01958",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Vacant Structure Inspection/Residential/Exterior Violations",
+    "record_status": "Active",
+    "description": "WHILE RESPONDING TO ORIGINAL COMPLAINT CAP (26470-08921), OBSERVED EXTERIOR HOUSING VIOLATIONS",
+    "parcel_number": "010080578",
+    "absentee_owner": false,
+    "repeat_violations": 2,
+    "lead_score": 68,
+    "lead_tags": "vacant, housing-code, exterior-violation, open, repeat-2",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "Y",
+    "last_sale_date": "05/17/1971",
+    "last_sale_price": "0",
+    "year_built": "1937",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26011&capID2=00000&capID3=01958&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09452": {
+    "owner_name": "CD HOME RENTALS LLC",
+    "mailing_address": "4960 E DUBLIN GRANVILLE RD STE 400",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43081",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43227",
+    "parcel_address": "1255 BEECHWOOD RD",
+    "property_address": "1255 BEECHWOOD RD",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09452",
+    "case_number": "26440-09452",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Exterior/General",
+    "record_status": "Active",
+    "description": "Code violations observed during inspection reference case 26441-01263 for potential emergency violations.",
+    "parcel_number": "010099663",
+    "absentee_owner": true,
+    "repeat_violations": 3,
+    "lead_score": 68,
+    "lead_tags": "housing-code, exterior-violation, open, repeat-3, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "04/08/2013",
+    "last_sale_price": "25000",
+    "year_built": "1958",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09452&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09464": {
+    "owner_name": "RISING HIGH PROPERTIES LLC",
+    "mailing_address": "5186 AVALON AVE",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43229",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43211",
+    "parcel_address": "1394 MANCHESTER AVE",
+    "property_address": "1394 MANCHESTER AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09464",
+    "case_number": "26440-09464",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "1394 MANCHESTER AVE - 1394 MANCHESTER AVE",
+    "parcel_number": "010069929",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 40,
+    "lead_tags": "housing-code, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "09/01/2020",
+    "last_sale_price": "0",
+    "year_built": "1925",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09464&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26470-09964": {
+    "owner_name": "REHOBOTH TEMPLE CHURCH OF CHRIST",
+    "mailing_address": "PO BOX 83326",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43203",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43203",
+    "parcel_address": "1151 E LONG ST",
+    "property_address": "1151 E LONG ST",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26470-09964",
+    "case_number": "26470-09964",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Zoning Code Inspection/Cert of Zoning Clearance/NA",
+    "record_status": "Active",
+    "description": "replaces 26470-09886 due to error on notice.",
+    "parcel_number": "010011405",
+    "absentee_owner": true,
+    "repeat_violations": 2,
+    "lead_score": 40,
+    "lead_tags": "open, repeat-2, absentee",
+    "land_use": "685",
+    "prop_class": "E",
+    "homestead": "",
+    "last_sale_date": "09/17/1990",
+    "last_sale_price": "50000",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26010&capID2=00000&capID3=09964&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09458": {
+    "owner_name": "NREA VB III LLC",
+    "mailing_address": "16220 N SCOTTSDALE RD STE 650",
+    "mailing_city": "Scottsdale",
+    "mailing_state": "AZ",
+    "mailing_zip": "85254",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43213",
+    "parcel_address": "182 WEYANT AVE",
+    "property_address": "182 S WEYANT AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09458",
+    "case_number": "26440-09458",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Interior/General",
+    "record_status": "Active",
+    "description": "182 S Weyant Ave- Interior housing violations.",
+    "parcel_number": "010089432",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 40,
+    "lead_tags": "housing-code, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "04/19/2019",
+    "last_sale_price": "0",
+    "year_built": "1951",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09458&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09457": {
+    "owner_name": "HILL FRANKLIN G",
+    "mailing_address": "1145 PETERS AVE",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43201",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43201",
+    "parcel_address": "1145 PETERS AVE",
+    "property_address": "1145 PETERS AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09457",
+    "case_number": "26440-09457",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Exterior/General",
+    "record_status": "Active",
+    "description": "MULTIPLE EXTERIOR HOUSING VIOLATIONS",
+    "parcel_number": "010009765",
+    "absentee_owner": false,
+    "repeat_violations": 2,
+    "lead_score": 43,
+    "lead_tags": "housing-code, exterior-violation, open, repeat-2",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "09/22/2020",
+    "last_sale_price": "0",
+    "year_built": "1924",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09457&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26440-09449": {
+    "owner_name": "SPINNAKER CLUB EAST II",
+    "mailing_address": "603 W WHEELING ST",
+    "mailing_city": "Lancaster",
+    "mailing_state": "OH",
+    "mailing_zip": "43130",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43068",
+    "parcel_address": "2801 - 2819 ARROWSMITH DR",
+    "property_address": "2819 ARROWSMITH DR",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26440-09449",
+    "case_number": "26440-09449",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Housing Code Inspection/Structure/General",
+    "record_status": "Active",
+    "description": "2819 ARROWSMITH DR - Caller state the roof is leaking water into the unit and the balcony is very unstable. Please investigate. Land lord refuse to fix it for the past 4 years.",
+    "parcel_number": "530204668",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 50,
+    "lead_tags": "housing-code, roof, open, absentee",
+    "land_use": "403",
+    "prop_class": "C",
+    "homestead": "",
+    "last_sale_date": "06/13/1997",
+    "last_sale_price": "0",
+    "year_built": "",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26006&capID2=00000&capID3=09449&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18575": {
+    "owner_name": "SWEENEY LLOYD B II",
+    "mailing_address": "3395 MCCUTCHEON CROSSING DR",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43219",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43211",
+    "parcel_address": "1538 - 1542 ACCOMMODATION AVE",
+    "property_address": "1538 ACCOMMODATION AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18575",
+    "case_number": "26475-18575",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Unoccupied Structure/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "1538-1542 ACCOMMODATION AVE - V/S WITH SOLID WASTE AROUND IT. RECENTLY SOLD TO NEW OWNER THROUGH RECEIVERSHIP WITH COURT.",
+    "parcel_number": "010055413",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 36,
+    "lead_tags": "overgrown, open, absentee",
+    "land_use": "530",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "07/07/2021",
+    "last_sale_price": "50000",
+    "year_built": "1961",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18575&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
+  },
+  "26475-18573": {
+    "owner_name": "CPS INVESTMENT PROPERTIES LLC",
+    "mailing_address": "1066 N HIGH ST",
+    "mailing_city": "Columbus",
+    "mailing_state": "OH",
+    "mailing_zip": "43201",
+    "property_city": "Columbus",
+    "property_state": "OH",
+    "property_zip": "43201",
+    "parcel_address": "329 TWENTIETH AVE",
+    "property_address": "329 20TH AVE",
+    "lead_type": "Code Enforcement",
+    "doc_num": "26475-18573",
+    "case_number": "26475-18573",
+    "filing_date": "2026-11-04",
+    "amount_owed": "",
+    "interest_rate": "",
+    "loan_type": "",
+    "record_type": "Enforcement/Environmental Health/Other/Weeds and Solid Waste",
+    "record_status": "Active",
+    "description": "329 20TH AVE - 329 E 20th Ave\n\ncaller states occupants of this address have all sorts of loose trash/debris in the front, back and side yards; visible from both the street and alley, no fence; eyesore; please investigate; thank you",
+    "parcel_number": "010043342",
+    "absentee_owner": true,
+    "repeat_violations": 1,
+    "lead_score": 44,
+    "lead_tags": "trash-debris, overgrown, open, absentee",
+    "land_use": "510",
+    "prop_class": "R",
+    "homestead": "",
+    "last_sale_date": "03/18/2019",
+    "last_sale_price": "262000",
+    "year_built": "1920",
+    "foreclosure_match": "",
+    "foreclosure_case_number": "",
+    "source_url": "https://portal.columbus.gov/Permits/Cap/CapDetail.aspx?Module=Enforcement&TabName=Enforcement&capID1=26004&capID2=00000&capID3=18573&agencyCode=COLUMBUS&IsToShowInspection=",
+    "date_added": "2026-11-05",
+    "last_seen": "2026-11-05"
   }
 }
